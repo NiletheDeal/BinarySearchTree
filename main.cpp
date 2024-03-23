@@ -1,3 +1,7 @@
+//Neel Madala
+//3/22/2024
+//This code takes in list of integers from either the file or console and adds them to a binary search tree and the user is able to search for and delete user specified integers from the tree as well as print out the tree.
+
 #include <iostream>
 #include <cstring>
 #include <cctype>
