@@ -5,13 +5,14 @@
 using namespace std;
 
 Node::Node() { //Constructor
-  left = NULL;
-  right = NULL;
+  left = nullptr;
+  right = nullptr;
   data = -1;
 }
 
 Node::~Node() { //Destructor
-
+  left = nullptr;
+  right = nullptr;
 }
 
 //Setters
